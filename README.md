@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 😃 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information technology at Sreenidhi Institute of Science and Technology.
 - 🌱 &nbsp; Learning more about Web Development, Data structures and algorithms, Cyber Security.
 - ✍️ &nbsp; Pursuing Video Editing as a hobby/side hustle.
