@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Information technology at Sreenidhi Institute of Science and Technology.
 - 🌱 &nbsp; Learning more about Web Development, Data structures and algorithms, Cyber Security.
 - ✍️ &nbsp; Pursuing Video Editing as a hobby/side hustle.
-- ✉️ &nbsp;You can shoot me an email at saivarun1410@gmail.com, I'll try to respond as soon as I can.
+- ✉️ &nbsp; You can shoot me an email at saivarun1410@gmail.com, I'll try to respond as soon as I can.
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
