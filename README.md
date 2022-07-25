@@ -30,3 +30,11 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
 <br/>
+
+## ⚙️ &nbsp;github analytics
+
+<p align="center">
+<a href="https://github.com/saivarun1410">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saivarun1410&show_icons=true&theme=algolia&count_private=true"/>
+</a>
+</p>
