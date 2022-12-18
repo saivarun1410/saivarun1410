@@ -1,7 +1,6 @@
 
 
 <h2> Hey there! I'm Sai Varun.</h2>
-![](https://komarev.com/ghpvc/?username=TheNinza&style=flat-square)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
