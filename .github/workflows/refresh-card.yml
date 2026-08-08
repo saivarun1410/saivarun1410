@@ -1,0 +1,45 @@
+name: refresh-card
+
+on:
+  schedule:
+    # 10:30 IST daily. The numbers on the card move slowly, so once a day is plenty.
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-card
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install termfetch
+        run: pip install "git+https://github.com/saivarun1410/termfetch@main"
+
+      - name: Render the card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -m termfetch --config config.json --out card.svg
+
+      - name: Commit if it changed
+        run: |
+          set -euo pipefail
+          git config user.name  "saivarun1410"
+          git config user.email "saivarun1410@gmail.com"
+          git add card.svg
+          if git diff --cached --quiet; then
+            echo "card unchanged"
+            exit 0
+          fi
+          git commit -m "Refresh profile card"
+          git push
