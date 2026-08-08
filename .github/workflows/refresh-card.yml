@@ -26,17 +26,22 @@ jobs:
       - name: Install termfetch
         run: pip install "git+https://github.com/saivarun1410/termfetch@main"
 
-      - name: Render the card
+      - name: Render both theme variants
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python -m termfetch --config config.json --out card.svg
+        run: |
+          set -euo pipefail
+          # The photo is backlit, so each theme needs the opposite invert to keep the
+          # subject denser than the background rather than the other way round.
+          python -m termfetch --config config.json --out card-dark.svg  --theme github-dark  --invert true
+          python -m termfetch --config config.json --out card-light.svg --theme github-light --invert false
 
       - name: Commit if it changed
         run: |
           set -euo pipefail
           git config user.name  "saivarun1410"
           git config user.email "saivarun1410@gmail.com"
-          git add card.svg
+          git add card-dark.svg card-light.svg
           if git diff --cached --quiet; then
             echo "card unchanged"
             exit 0
