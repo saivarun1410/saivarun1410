@@ -1,7 +1,12 @@
 {
   "github": "saivarun1410",
   "image": "assets/me.jpg",
-  "imageCrop": [400, 0, 1200, 1200],
+  "imageCrop": [
+    400,
+    0,
+    1200,
+    1200
+  ],
   "imageCols": 46,
   "charset": "ascii",
   "coloredImage": true,
@@ -22,34 +27,55 @@
     {
       "title": "{{username}}@github",
       "fields": [
-        { "key": "Name", "value": "{{name}}" },
-        { "key": "Location", "value": "Hyderabad, India" },
-        { "key": "Open to", "value": "Relocating to the US" },
-        { "key": "Created", "value": "{{created}}" },
-        { "key": "Uptime", "value": "{{uptime}}" }
+        {
+          "key": "Name",
+          "value": "{{name}}"
+        },
+        {
+          "key": "Location",
+          "value": "Hyderabad, India"
+        },
+        {
+          "key": "Open to",
+          "value": "Relocating to the US"
+        },
+        {
+          "key": "Created",
+          "value": "{{created}}"
+        },
+        {
+          "key": "Uptime",
+          "value": "{{uptime}}"
+        }
       ]
     },
     {
       "fields": [
-        { "key": "Languages", "value": "{{languages}}" },
-        { "key": "Focus", "value": "Backend, platform, 0-1 products" }
+        {
+          "key": "Languages",
+          "value": "{{languages}}"
+        },
+        {
+          "key": "Focus",
+          "value": "Backend, platform, 0-1 products"
+        }
       ]
     },
     {
       "title": "- Contact",
       "fields": [
-        { "key": "Email", "value": "saivarun1410@gmail.com" },
-        { "key": "GitHub", "value": "github.com/saivarun1410" },
-        { "key": "LinkedIn", "value": "in/saivarun1410" }
-      ]
-    },
-    {
-      "title": "- GitHub Stats",
-      "fields": [
-        { "key": "Repos", "value": "{{repos}}" },
-        { "key": "Stars", "value": "{{stars}}" },
-        { "key": "Followers", "value": "{{followers}}" },
-        { "key": "Forks", "value": "{{forks}}" }
+        {
+          "key": "Email",
+          "value": "saivarun1410@gmail.com"
+        },
+        {
+          "key": "GitHub",
+          "value": "github.com/saivarun1410"
+        },
+        {
+          "key": "LinkedIn",
+          "value": "in/saivarun1410"
+        }
       ]
     }
   ]
