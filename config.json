@@ -11,6 +11,7 @@
   "windowTitle": "saivarun1410 — zsh",
   "keyWidth": 14,
   "panelAlign": "middle",
+  "valueWrap": 46,
   "languageMode": "bytes",
   "topLanguages": 5,
   "sections": [
@@ -19,8 +20,9 @@
       "fields": [
         ["Name", "{{name}}"],
         ["Member for", "{{uptime}}"],
-        ["Location", "{{location}}"],
-        ["Bio", "{{bio}}"]
+        ["Location", "Hyderabad, India"],
+        ["Open to", "Relocating to the US"],
+        ["Bio", "Backend & platform engineer. I turn ambiguous customer problems into reliable software, discovery through production."]
       ]
     },
     {
