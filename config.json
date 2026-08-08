@@ -1,9 +1,14 @@
 {
   "github": "saivarun1410",
   "image": "assets/me.jpg",
-  "imageCrop": [630, 0, 780, 780],
-  "imageCols": 52,
-  "charset": "blocks",
+  "imageCrop": [
+    630,
+    0,
+    780,
+    780
+  ],
+  "imageCols": 72,
+  "charset": "halfblocks",
   "coloredImage": true,
   "contrast": 1.2,
   "gamma": 1.05,
@@ -18,23 +23,58 @@
     {
       "title": "{{username}}@github",
       "fields": [
-        ["Name", "{{name}}"],
-        ["Member for", "{{uptime}}"],
-        ["Location", "Hyderabad, India"],
-        ["Open to", "Relocating to the US"],
-        ["Bio", "Backend & platform engineer. I turn ambiguous customer problems into reliable software, discovery through production."]
+        [
+          "Name",
+          "{{name}}"
+        ],
+        [
+          "Member for",
+          "{{uptime}}"
+        ],
+        [
+          "Location",
+          "Hyderabad, India"
+        ],
+        [
+          "Open to",
+          "Relocating to the US"
+        ],
+        [
+          "Bio",
+          "Backend & platform engineer. I turn ambiguous customer problems into reliable software, discovery through production."
+        ]
       ]
     },
     {
       "title": "Stats",
       "fields": [
-        ["Repositories", "{{repos}}"],
-        ["Stars", "{{stars}}"],
-        ["Forks", "{{forks}}"],
-        ["Followers", "{{followers}}"],
-        ["Joined", "{{created}}"],
-        ["Languages", "{{languages}}"]
+        [
+          "Repositories",
+          "{{repos}}"
+        ],
+        [
+          "Stars",
+          "{{stars}}"
+        ],
+        [
+          "Forks",
+          "{{forks}}"
+        ],
+        [
+          "Followers",
+          "{{followers}}"
+        ],
+        [
+          "Joined",
+          "{{created}}"
+        ],
+        [
+          "Languages",
+          "{{languages}}"
+        ]
       ]
     }
-  ]
+  ],
+  "fontSize": 12,
+  "colorStep": 16
 }
