@@ -99,6 +99,6 @@ I welcome focused issues, thoughtful pull requests, and honest feedback. Each re
 
 I’m most useful in backend, platform, AI-tooling, or founding-engineer roles where reliability matters and ownership does not stop at the pull request.
 
-[**saivarun1410@gmail.com**](mailto:saivarun1410@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/saivarun1410/) · [**Engineering portfolio**](https://sai-varun-developer.saivarun1410.workers.dev)
+[**saivarun1410@gmail.com**](mailto:saivarun1410@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/saivarun1410/)
 
 </div>
