@@ -6,8 +6,6 @@
 
 I build developer tools for AI agents, local-first utilities, and dependable products that turn complicated workflows into small, understandable systems.
 
-[**Open-source work**](#open-source-and-public-work) · [**Engineering portfolio**](https://sai-varun-developer.saivarun1410.workers.dev) · [**Product case studies**](https://sai-varun-product-manager.saivarun1410.workers.dev) · [**Email**](mailto:saivarun1410@gmail.com)
-
 <br>
 
 <a href="https://github.com/saivarun1410/termfetch">
