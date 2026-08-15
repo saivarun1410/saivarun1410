@@ -27,10 +27,10 @@ My projects share one idea: tools should be useful before they become complicate
 
 | Project | What it does | Built with |
 |---|---|---|
-| **[keelson](https://github.com/saivarun1410/keelson)** | Enforces a repository's architecture rules at AI-agent edit time—before a bad change reaches CI. One rule file, any language. | TypeScript · agent hooks · static analysis |
+| **[keelson](https://github.com/saivarun1410/keelson)** | Enforces a repository's architecture rules at AI-agent edit time—before a bad change reaches CI. One rule file, any language. [Available on npm](https://www.npmjs.com/package/@saivarun1410/keelson). | TypeScript · agent hooks · static analysis |
 | **[termfetch](https://github.com/saivarun1410/termfetch)** | Turns a GitHub profile into a neofetch-style, self-contained SVG card with no image service required at view time. [Available on PyPI](https://pypi.org/project/termfetch/). | Python · SVG · GitHub API |
-| **[TermVoice](https://github.com/saivarun1410/termvoice)** | Converts local speech into a reviewed prompt for terminal AI agents. Audio stays on the machine and nothing is dispatched without approval. | Python · faster-whisper · CLI |
-| **[crosscheck-ai](https://github.com/saivarun1410/crosscheck-ai)** | Runs one coding agent as the author and another as an independent reviewer, with deterministic checks and bounded correction rounds. | TypeScript · Codex · Claude Code |
+| **[TermVoice](https://github.com/saivarun1410/termvoice)** | Converts local speech into a reviewed prompt for terminal AI agents. Audio stays on the machine and nothing is dispatched without approval. [Available on PyPI](https://pypi.org/project/termvoice/). | Python · faster-whisper · CLI |
+| **[crosscheck-ai](https://github.com/saivarun1410/crosscheck-ai)** | Runs one coding agent as the author and another as an independent reviewer, with deterministic checks and bounded correction rounds. [Available on npm](https://www.npmjs.com/package/crosscheck-ai). | TypeScript · Codex · Claude Code |
 | **[RealSecurePdf](https://github.com/saivarun1410/SecurePdf)** · [Live app](https://real-secure-pdf.saivarun1410.workers.dev/) | Rearranges and merges PDFs entirely in the browser, then independently verifies the output before download. | TypeScript · PDF.js · Cloudflare |
 | **[ATS Resume Tailor](https://github.com/saivarun1410/ats-resume-tailor)** | Tailors a resume to a job description, scores it with a deterministic ATS checker, and exports a one-page text-extractable PDF. | TypeScript · OpenAI · Cloudflare Workers |
 
