@@ -46,8 +46,6 @@ Open source is only one side of my work. I also build systems around real operat
 - **[Jira Mine](https://github.com/saivarun1410/Jira-mine)** — a focused Jira workspace for personal priorities, notes, and today/blocked views.
 - **[Travee](https://github.com/saivarun1410/Travee)** — a full-stack travel discovery product with authentication, reviews, image storage, and map-based exploration.
 
-[Read the engineering breakdown](https://sai-varun-developer.saivarun1410.workers.dev/#systems) · [Explore the product case studies](https://sai-varun-product-manager.saivarun1410.workers.dev/#work)
-
 ## Evidence, not adjectives
 
 | Work | Outcome |
