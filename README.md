@@ -2,7 +2,7 @@
 
 Backend and AI engineer building developer tools, applied AI systems, and reliable backend services.
 
-## Projects
+## OSS Projects
 
 | Project | Description | Stack |
 |---|---|---|
