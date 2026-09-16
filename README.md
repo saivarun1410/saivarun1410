@@ -2,8 +2,6 @@
 
 Backend and AI engineer building developer tools, applied AI systems, and reliable backend services.
 
-Based in Hyderabad, India. Interested in AI tooling, platform engineering, and software reliability.
-
 ## Projects
 
 | Project | Description | Stack |
@@ -17,7 +15,6 @@ Based in Hyderabad, India. Interested in AI tooling, platform engineering, and s
 
 ## Research and publications
 
-- **Measurability Before Power: Pre-Confirmatory Viability Screening for Sparse LLM Experiments** — manuscript submitted to arXiv in Software Engineering; currently under arXiv moderation. [Manuscript](https://measurability-before-power.pages.dev/manuscript.pdf)
 - **Detection of Abductors Using Machine Learning Algorithms** — co-author, Springer LNNS conference chapter (2024). [Publisher page](https://link.springer.com/chapter/10.1007/978-981-99-8628-6_11)
 
 ## Additional work
