@@ -13,7 +13,7 @@ Backend and AI engineer building developer tools, applied AI systems, and reliab
 | [Agent Usage Menu](https://github.com/saivarun1410/agent-usage-menu) | macOS menu-bar app for monitoring Codex and Claude Code usage limits. Published on [npm](https://www.npmjs.com/package/agent-usage-menu). | Swift, SwiftUI, macOS |
 | [SecurePdf](https://github.com/saivarun1410/SecurePdf) | Browser-only PDF arrangement and merging with output verification. [Live application](https://real-secure-pdf.saivarun1410.workers.dev/). | TypeScript, PDF.js, Cloudflare |
 
-## Contributions to other projects
+## Contributions to OSS projects
 
 | Project | Contribution |
 |---|---|
