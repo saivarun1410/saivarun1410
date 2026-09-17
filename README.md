@@ -13,6 +13,15 @@ Backend and AI engineer building developer tools, applied AI systems, and reliab
 | [Agent Usage Menu](https://github.com/saivarun1410/agent-usage-menu) | macOS menu-bar app for monitoring Codex and Claude Code usage limits. Published on [npm](https://www.npmjs.com/package/agent-usage-menu). | Swift, SwiftUI, macOS |
 | [SecurePdf](https://github.com/saivarun1410/SecurePdf) | Browser-only PDF arrangement and merging with output verification. [Live application](https://real-secure-pdf.saivarun1410.workers.dev/). | TypeScript, PDF.js, Cloudflare |
 
+## Contributions to other projects
+
+| Project | Contribution |
+|---|---|
+| [OpenTelemetry Java](https://github.com/open-telemetry/opentelemetry-java) | [PR #8826](https://github.com/open-telemetry/opentelemetry-java/pull/8826) (merged) — consolidated a duplicated JMH benchmark exporter in the trace SDK onto the existing shared implementation. |
+| [Logback](https://github.com/qos-ch/logback) | [Accepted answer, #1068](https://github.com/qos-ch/logback/discussions/1068#discussioncomment-18460171) — traced a Logback 1.6.3 Spring Boot startup failure to a missing `org.jline:jansi-core` runtime dependency for `JansiConsoleAppender`. |
+| [Jackson Databind](https://github.com/FasterXML/jackson-databind) | [Accepted answer, #6139](https://github.com/FasterXML/jackson-databind/discussions/6139) — why `WRITE_DATES_AS_TIMESTAMPS` cannot express a per-type date/timestamp policy, and how to configure the exceptions by type. |
+| [Kestra](https://github.com/kestra-io/plugin-serdes) | [PR #416](https://github.com/kestra-io/plugin-serdes/pull/416) (merged) — corrected the documented unit for the `CsvToIon` buffer size property. |
+
 ## Research and publications
 
 - **Detection of Abductors Using Machine Learning Algorithms** — co-author, Springer LNNS conference chapter (2024). [Publisher page](https://link.springer.com/chapter/10.1007/978-981-99-8628-6_11)
