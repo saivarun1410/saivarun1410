@@ -24,6 +24,7 @@ Backend and AI engineer building developer tools, applied AI systems, and reliab
 
 ## Research and publications
 
+- **Measurability Before Power: Pre-Confirmatory Viability Screening for Sparse LLM Experiments** — sole author, preprint (2026). [DOI: 10.5281/zenodo.22810166](https://doi.org/10.5281/zenodo.22810166)
 - **Detection of Abductors Using Machine Learning Algorithms** — co-author, Springer LNNS conference chapter (2024). [Publisher page](https://link.springer.com/chapter/10.1007/978-981-99-8628-6_11)
 
 ## Additional work
