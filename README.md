@@ -1,8 +1,4 @@
-# Sai Varun Thupakula
-
-Backend and AI engineer building developer tools, applied AI systems, and reliable backend services.
-
-## My OSS, fork them and play with them
+AI systems and some chess
 
 | Project | Description | Stack |
 |---|---|---|
@@ -14,5 +10,3 @@ Backend and AI engineer building developer tools, applied AI systems, and reliab
 | [crosscheck-ai](https://github.com/saivarun1410/crosscheck-ai) | Author-reviewer orchestration for coding agents with deterministic checks and bounded correction rounds. Published on [npm](https://www.npmjs.com/package/crosscheck-ai). | TypeScript, Codex, Claude Code |
 | [Agent Usage Menu](https://github.com/saivarun1410/agent-usage-menu) | macOS menu-bar app for monitoring Codex and Claude Code usage limits. Published on [npm](https://www.npmjs.com/package/agent-usage-menu). | Swift, SwiftUI, macOS |
 
-
-[LinkedIn](https://www.linkedin.com/in/saivarun1410/) · [Email](saivarun1410@gmail.com)
