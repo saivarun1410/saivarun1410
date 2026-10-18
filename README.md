@@ -13,7 +13,6 @@ Backend and AI engineer building developer tools, applied AI systems, and reliab
 | [TermVoice](https://github.com/saivarun1410/termvoice) | Local speech-to-prompt workflow for terminal AI agents, with review before dispatch. Published on [PyPI](https://pypi.org/project/termvoice/). | Python, faster-whisper, CLI |
 | [crosscheck-ai](https://github.com/saivarun1410/crosscheck-ai) | Author-reviewer orchestration for coding agents with deterministic checks and bounded correction rounds. Published on [npm](https://www.npmjs.com/package/crosscheck-ai). | TypeScript, Codex, Claude Code |
 | [Agent Usage Menu](https://github.com/saivarun1410/agent-usage-menu) | macOS menu-bar app for monitoring Codex and Claude Code usage limits. Published on [npm](https://www.npmjs.com/package/agent-usage-menu). | Swift, SwiftUI, macOS |
-| [SecurePdf](https://github.com/saivarun1410/SecurePdf) | Browser-only PDF arrangement and merging with output verification. [Live application](https://real-secure-pdf.saivarun1410.workers.dev/). | TypeScript, PDF.js, Cloudflare |
 
 ## Contributions to OSS
 
