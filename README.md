@@ -1,5 +1,7 @@
 | Project | Description | Stack |
 |---|---|---|
+| [Kurama Terminal](https://github.com/saivarun1410/kurama-terminal) | Animated macOS terminal companion with blinks, head tilts, privacy mode, and a goodbye wave. Published on [npm](https://www.npmjs.com/package/kurama-terminal). | Swift, AppKit, Node.js, macOS |
+| [Wildwing](https://github.com/saivarun1410/wildwing) | Playable bird world with procedural terrain, wildlife, weather, hunting, and nest building. [Play live](https://wildwing.pages.dev/?seed=123456). | JavaScript, Three.js, WebGL, Cloudflare Pages |
 | [keelson](https://github.com/saivarun1410/keelson) | Architecture-rule enforcement for AI-assisted code changes. Published on [npm](https://www.npmjs.com/package/@saivarun1410/keelson). | TypeScript, static analysis |
 | [repropack](https://github.com/saivarun1410/repropack) | Captures failing commands as verifiable bug reports and replays them in isolated Git worktrees. Published on [npm](https://www.npmjs.com/package/repropack). | JavaScript, Node.js, Git, CLI |
 | [fetch-cassette-kit](https://github.com/saivarun1410/fetch-cassette-kit) | Records `fetch` calls as redacted test fixtures and replays them offline. Published on [npm](https://www.npmjs.com/package/fetch-cassette-kit). | JavaScript, Node.js, Fetch API |
@@ -7,5 +9,3 @@
 | [TermVoice](https://github.com/saivarun1410/termvoice) | Local speech-to-prompt workflow for terminal AI agents, with review before dispatch. Published on [PyPI](https://pypi.org/project/termvoice/). | Python, faster-whisper, CLI |
 | [crosscheck-ai](https://github.com/saivarun1410/crosscheck-ai) | Author-reviewer orchestration for coding agents with deterministic checks and bounded correction rounds. Published on [npm](https://www.npmjs.com/package/crosscheck-ai). | TypeScript, Codex, Claude Code |
 | [Agent Usage Menu](https://github.com/saivarun1410/agent-usage-menu) | macOS menu-bar app for monitoring Codex and Claude Code usage limits. Published on [npm](https://www.npmjs.com/package/agent-usage-menu). | Swift, SwiftUI, macOS |
-| [Kurama Terminal](https://github.com/saivarun1410/kurama-terminal) | Animated macOS terminal companion with blinks, head tilts, privacy mode, and a goodbye wave. Published on [npm](https://www.npmjs.com/package/kurama-terminal). | Swift, AppKit, Node.js, macOS |
-| [Wildwing](https://github.com/saivarun1410/wildwing) | Playable bird world with procedural terrain, wildlife, weather, hunting, and nest building. [Play live](https://wildwing.pages.dev/?seed=123456). | JavaScript, Three.js, WebGL, Cloudflare Pages |
